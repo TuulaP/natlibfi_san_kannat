@@ -6,7 +6,7 @@ data sources are
 1. Päiviö Tommila (editor.): Suomen lehdistön historia-book series (History of Finnish newspapers)
 1. DHH15-hackathon listed 24 socialistic newspapers (also utilized Tommila book series)
 2. Thesis of Keijo Lehto: [Aatteista arkeen : suomalaisten seitsenpäiväisten sanomalehtien linjapapereiden synty ja muutos 1971-2005](https://jyx.jyu.fi/handle/123456789/13464#)
-3. Lehden oma ilmoitus: tilausilmoitus, pääkirjoitus tai linjapaperi
+3. Newspapers own information: order announcement (tilausilmoitus), editorial (pääkirjoitus) or profile paper (linjapaperi).
 
 
 The list contains the newspapers which have most digitized pages available. 
